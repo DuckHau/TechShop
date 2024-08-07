@@ -1,0 +1,5 @@
+{
+  "files.autoSave": "onWindowChange",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.mouseWheelZoom": true
+}
